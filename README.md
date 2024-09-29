@@ -3,7 +3,7 @@ Overview
 
 The Més que un team project involves building an AI-powered HR Decision Support System. The system is designed to assist with resume and recommendation letter analysis for hiring purposes, utilizing advanced Natural Language Processing (NLP) models. The primary goal is to enhance hiring decisions by detecting fraud, analyzing professional connectivity, and evaluating candidates' profiles.
 
-Key Features:
+Key Features:   
 Fraud Detection: Detects inconsistencies and exaggerated claims in resumes and recommendation letters.
 Connectivity Score: Analyzes the professional network strength based on connections and endorsements.
 Profile Score: Evaluates candidates' work experience, skills, and suitability for a role.
@@ -25,7 +25,6 @@ Experience Analysis: Uses Qwen2 LLM to evaluate the candidate's years of experie
 Skills Filtering: Allows HR users to filter candidates based on job-specific keywords.
 5. HR Decision Support Dashboard
 A user-friendly interface providing:
-
 Keyword search functionality
 Candidate comparison
 Fraud detection alerts
