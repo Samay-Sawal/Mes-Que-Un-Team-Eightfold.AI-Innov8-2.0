@@ -7,6 +7,7 @@ Key Features:
 Fraud Detection: Detects inconsistencies and exaggerated claims in resumes and recommendation letters.
 Connectivity Score: Analyzes the professional network strength based on connections and endorsements.
 Profile Score: Evaluates candidates' work experience, skills, and suitability for a role.
+
 Project Structure
 
 1. Exploratory Data Analysis (EDA)
