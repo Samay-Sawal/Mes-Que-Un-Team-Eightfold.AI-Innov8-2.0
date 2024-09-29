@@ -1,7 +1,7 @@
 # Mes-Que-Un-Team-Eightfold.AI-Innov8-2.0
 Overview
 
-The Més que un team project involves building an AI-powered HR Decision Support System. The system is designed to assist with resume and recommendation letter analysis for hiring purposes, utilizing advanced Natural Language Processing (NLP) models. The primary goal is to enhance hiring decisions by detecting fraud, analyzing professional connectivity, and evaluating candidates' profiles.
+This repository involves building an AI-powered HR Decision Support System. The system is designed to assist with resume and recommendation letter analysis for hiring purposes, utilizing advanced Natural Language Processing (NLP) models. The primary goal is to enhance hiring decisions by detecting fraud, analyzing professional connectivity, and evaluating candidates' profiles.
 
 Key Features:   
 Fraud Detection: Detects inconsistencies and exaggerated claims in resumes and recommendation letters.
